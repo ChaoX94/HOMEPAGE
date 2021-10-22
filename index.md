@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+# Curriculum Vitae - _Chao Xu_
+## Contact Info
+- Email: chao.xu.1994@outlook.com
+- Wechat：XuChao_0731
+- GitHub: chaox94.github.io/intro
+
+## Education Background
+- NEOMA Business School _Joint Master Program_
+- Wuhan University _Master of Finance_
+- Northeastern University at Qinhuangdao _Bachelor of Finance_
 
 You can use the [editor on GitHub](https://github.com/ChaoX94/chaoxu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
