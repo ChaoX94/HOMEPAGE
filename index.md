@@ -9,9 +9,9 @@
   Sep. 2017 - Dec. 2017 _Sponsored by China Scholarship Council_
 - **Wuhan University** _Master of Finance_  
   Sep. 2016 - June 2019 _Advisor [Siyue Liu](http://ems.whu.edu.cn/info/2270/21178.htm)_  
-  Thesis：_A Study of RMB Exchange Rate Forecast Based on Taylor‘s Rule and Gradient Boosting Regression_
+  Thesis：_A Study of RMB Exchange Rate Forecast Based on Taylor‘s Rule and Gradient Boosting Regression_ / Slides
 - **Northeastern University at Qinhuangdao** _Bachelor of Finance_  
-  Sep. 2012 - June 2016 _GPA 4.22 National Scholarship Winner_
+  Sep. 2012 - June 2016 _GPA 4.22 & National Scholarship Winner_
 
 You can use the [editor on GitHub](https://github.com/ChaoX94/chaoxu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
