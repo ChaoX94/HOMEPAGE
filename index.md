@@ -1,4 +1,5 @@
 #  _**Chao Xu**_ 
+
 ## Contact Info
 - Email: chao.xu.1994@outlook.com
 - Wechat：XuChao_0731
@@ -13,4 +14,3 @@
 - **Northeastern University at Qinhuangdao** _Bachelor of Finance_  
   Sep. 2012 - June 2016 _GPA 4.22 & National Scholarship Winner_
 
-## Working Experience
