@@ -2,7 +2,7 @@
 ## Working Experience
 - I will be joining _**Huazhong University of Science and Technology**_ soon.
 - Currently I work for _**China State Construction Third Bureau**_.
-- Previously I worked for _**Northeast Securities**_,_** Changjiang Securities**_.
+- Previously I worked for _**Northeast Securities**_,_**Changjiang Securities**_.
 
 ## Contact Info
 - Email: chao.xu.1994@outlook.com
