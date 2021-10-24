@@ -1,14 +1,15 @@
 #  _**Chao Xu**_ 
-## Working Experience
-- I will be joining _**Huazhong University of Science and Technology**_ soon.
-- Currently I work for _**China State Construction Third Bureau**_.
-- Previously I worked for _**Northeast Securities**_,_**Changjiang Securities**_.
 
 ## Contact Info
 - Email: _**chao.xu.1994@outlook.com**_
 - Wechat：_**XuChao_0731**_
-- GitHub: [_**ChaoX94**_](https://chaox94.github.io/HOMEPAGE/)
-- Sina Weibo:[_**GavinXu_1994**_](https://weibo.com/chaox94)
+- GitHub: [_ChaoX94_](https://chaox94.github.io/HOMEPAGE/)
+- Sina Weibo:[_GavinXu_1994_](https://weibo.com/chaox94)
+
+## Working Experience
+- I will be joining _**Huazhong University of Science and Technology**_ soon.
+- Currently I work for _**China State Construction Third Bureau**_.
+- Previously I worked for _**Northeast Securities**_,_**Changjiang Securities**_.
 
 ## Education Background
 - **NEOMA Business School** _Joint Master Program_  
