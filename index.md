@@ -7,7 +7,7 @@
 ## Contact Info
 - Email: chao.xu.1994@outlook.com
 - Wechat：XuChao_0731
-- GitHub: chaox94.github.io/intro
+- GitHub: [chaox94](https://chaox94.github.io/HOMEPAGE/)
 
 ## Education Background
 - **NEOMA Business School** _Joint Master Program_  
