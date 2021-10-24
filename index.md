@@ -2,9 +2,9 @@
 
 ## Contact Info
 - Email: _**chao.xu.1994@outlook.com**_
-- Wechat：_**XuChao_0731**_
+- Wechat: _**XuChao_0731**_
 - GitHub: [_ChaoX94_](https://chaox94.github.io/HOMEPAGE/)
-- Sina Weibo:[_GavinXu_1994_](https://weibo.com/chaox94)
+- Sina Weibo: [_GavinXu_1994_](https://weibo.com/chaox94)
 
 ## Working Experience
 - I will be joining _**Huazhong University of Science and Technology**_ soon.
