@@ -8,6 +8,7 @@
 - Email: chao.xu.1994@outlook.com
 - Wechat：XuChao_0731
 - GitHub: [chaox94](https://chaox94.github.io/HOMEPAGE/)
+- Sina Weibo:[_**GavinXu_1994**_](https://weibo.com/chaox94)
 
 ## Education Background
 - **NEOMA Business School** _Joint Master Program_  
