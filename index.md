@@ -1,8 +1,7 @@
 #  _**Chao Xu**_ 
 
-## Contact Info.
+## Contact Information
 - Email: _**chao.xu.1994@outlook.com**_
-- Wechat: _**XuChao_0731**_
 - Sina Weibo: [_GavinXu_1994_](https://weibo.com/chaox94)
 
 ## Working Experience
