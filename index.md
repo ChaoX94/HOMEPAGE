@@ -5,9 +5,8 @@
 - Sina Weibo: [_GavinXu_1994_](https://weibo.com/chaox94)
 
 ## Working Experience
-- I will be joining _**Huazhong University of Science and Technology**_ soon.
-- Currently I work for _**China State Construction Third Bureau**_.
-- Previously I worked for _**Northeast Securities**_ and _**Changjiang Securities**_.
+- Currently I work for _**Huazhong University of Science and Technology**_.
+- Previously I worked for _**China State Construction Third Bureau**_, _**Northeast Securities**_ and _**Changjiang Securities**_.
 
 ## Education Background
 - **NEOMA Business School** _Joint Master Program_  
@@ -18,5 +17,5 @@
 - **Northeastern University at Qinhuangdao** _Bachelor of Finance_  
   Sept. 2012 - Jun. 2016 _GPA 4.22 & National Scholarship Winner_  
   
-  _**Updated on 24th Oct. 2021**_
+  _**Updated on 18th Oct. 2022**_
 
